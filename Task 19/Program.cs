@@ -14,7 +14,3 @@ if (len == 5)
         Console.WriteLine($"{number} - Не палиндром");
     }
 }
-else
-{
-    Console.WriteLine($"ОШИБКА: {number} - Не пятизначное число!");
-}
